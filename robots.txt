@@ -10,4 +10,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://travelercn.github.io
+Sitemap: https://travelervpn.github.io
